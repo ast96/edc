@@ -17,6 +17,19 @@
   |Cell phone|148|2021|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|
 </p></details>
 
+<details><summary>Show table 2</summary>
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
+</details>
+
 
 
 ### Wallet - [Bellroy Low Down](https://web.archive.org/web/20170706115623/https://bellroy.com/products/low-down-wallet/default/black)
