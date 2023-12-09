@@ -1,6 +1,6 @@
 # My EDC
 ### By the numbers
-<details open><summary>Show table</summary>
+<details open><summary>Show table</summary><p>
 
   
   |EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
@@ -15,7 +15,7 @@
   |Former knife|||⭐️⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️|
   |Former cell phone|113|2017|⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️|
   |Cell phone|148|2021|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|
-</details>
+</p></details>
 
 
 
