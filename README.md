@@ -3,6 +3,7 @@
 <details>
   <summary><i>Show stats table</i></summary>
 
+
 |EDC Item|Weight (grams)|Date acquired|
 |---|---|---|
 |Former cell phone||2017|
