@@ -14,7 +14,7 @@
 ### Pocket knife - [Spyderco Dragonfly 2](https://www.spyderco.com/catalog/details/C28ZFGR2/1056){:target="_blank" rel="noopener"}
 * Hand-dyed with Zome method
 * Fiberglass-reinforced-nylon (FRN) handles
-* _Formerly [Opinel No.06 knife (bubinga wood handle)](https://www.amazon.com/Opinel-Stainless-Steel-Folding-Pocket/dp/B000OEX94G?th=1)_  
+* _Formerly [Opinel No.06 knife (bubinga wood handle)](https://www.amazon.com/Opinel-Stainless-Steel-Folding-Pocket/dp/B000OEX94G?th=1){:target="_blank" rel="noopener"}_  
 [<img src="https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee" width="100" />](https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee){:target="_blank" rel="noopener"}
 ### Flashlight - [Prometheus Beta Magnetic](https://darksucks.com/products/beta-magnetic){:target="_blank" rel="noopener"}
 * 40 lumens
@@ -22,10 +22,11 @@
 * "Mule"-type light
 * Attached via [Nite-Ize S-Biner SlideLock stainless steel #2-size black dual carabiner](https://niteize.com/s-biner-slidelock-stainless-steel#color=32&size=61&inner_qty=17){:target="_blank" rel="noopener"}  
 [<img src="https://github.com/ast96/edc/assets/20477698/576b92c4-1c3e-467c-8d80-9c22f7f5ac90" width="100" />](https://github.com/ast96/edc/assets/20477698/576b92c4-1c3e-467c-8d80-9c22f7f5ac90){:target="_blank" rel="noopener"}
-### Cell phone - [iPhone SE (2020)](https://support.apple.com/kb/SP820?locale=en_US){:target="_blank" rel="noopener"}
+### Cell phone - [iPhone SE (2nd gen.)](https://support.apple.com/kb/SP820?locale=en_US){:target="_blank" rel="noopener"}
 * 4.7" touchscreen
 * Encased in [Caudabe Sheath electric blue case](https://caudabe.com/products/sheath-iphone-se-2020?variant=32575351292001){:target="_blank" rel="noopener"}
-* Attached via [SPIbelt Original Pocket belt](https://spibelt.com/collections/running-belts/products/spibelt-original-pocket){:target="_blank" rel="noopener"}  
+* Attached via [SPIbelt Original Pocket belt](https://spibelt.com/collections/running-belts/products/spibelt-original-pocket){:target="_blank" rel="noopener"}
+* _Formerly [iPhone SE (1st gen.)](https://support.apple.com/kb/SP738?locale=en_US){:target="_blank" rel="noopener"}_
 [<img src="https://github.com/ast96/edc/assets/20477698/39dafece-6b39-4dc6-acd6-ecd84439343b" width="100" />](https://github.com/ast96/edc/assets/20477698/39dafece-6b39-4dc6-acd6-ecd84439343b){:target="_blank" rel="noopener"}
 ### Keys
 * Portion within [Bellroy Key Cover standard size, black](https://bellroy.com/products/key-cover?color=black&material=leather&size=standard){:target="_blank" rel="noopener"}
