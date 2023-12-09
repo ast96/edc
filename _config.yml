@@ -1,4 +1,4 @@
 # remote_theme: pages-themes/dinky@v0.2.0
-theme: minima
+theme: jekyll-theme-cayman
 title: Everyday Carry
 description: a.k.a. EDC
