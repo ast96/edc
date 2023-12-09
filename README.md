@@ -1,6 +1,5 @@
 # My EDC
 ### Stats
-<details><summary>Show stats table</summary>
 
 |EDC Item|Weight (grams)|Date acquired|
 |---|---|---|
@@ -14,7 +13,7 @@
 |Knife|34|2023|
 |Watch||2023|
 |Keys||N/A|
-</details>
+
 
 ### Wallet - [Bellroy Low Down](https://web.archive.org/web/20170706115623/https://bellroy.com/products/low-down-wallet/default/black)
 * Slim
