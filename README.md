@@ -1,30 +1,114 @@
 # My EDC
 ### By the numbers
-  
-|EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
-|---|---|---|---|---|---|---|
-|Handkerchief||2018|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|
-|Knife|34|2023|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Flashlight|34|2022|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Watch||2023|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|
-|Wallet||2018|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Keys||N/A|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Former pen|24|2020|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️⭐️⭐️|
-|Former knife|||⭐️⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️|
-|Former cell phone|113|2017|⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️|
-|Cell phone|148|2021|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|
 
 <details><summary>Show/hide table</summary>
 
 <table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>EDC Item</th>
+      <th>Weight (g)</th>
+      <th>Date acquired</th>
+      <th>Simplicity</th>
+      <th>Functionality</th>
+      <th>Carryability</th>
+      <th>Durability</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Handkerchief</td>
+      <td>&nbsp;</td>
+      <td>2018</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Knife</td>
+      <td>34</td>
+      <td>2023</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Flashlight</td>
+      <td>34</td>
+      <td>2022</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Watch</td>
+      <td>&nbsp;</td>
+      <td>2023</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Wallet</td>
+      <td>&nbsp;</td>
+      <td>2018</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Keys</td>
+      <td>&nbsp;</td>
+      <td>N/A</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Former pen</td>
+      <td>24</td>
+      <td>2020</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Former knife</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️</td>
+      <td>⭐️</td>
+      <td>⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td>Former cell phone</td>
+      <td>113</td>
+      <td>2017</td>
+      <td>⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️</td>
+    </tr>
+    <tr>
+      <td>Cell phone</td>
+      <td>148</td>
+      <td>2021</td>
+      <td>⭐️</td>
+      <td>⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️</td>
+      <td>⭐️</td>
+    </tr>
+  </tbody>
 </table>
+
 </details>
 
 
