@@ -1,6 +1,6 @@
 # My EDC
 ### By the numbers
-<details><summary>Show table</summary>
+<details open><summary>Show table</summary>
 
   
   |EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
