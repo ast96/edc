@@ -15,3 +15,4 @@
 * Attached via [Nite-Ize S-Biner SlideLock stainless steel #2-size black dual carabiner](https://niteize.com/s-biner-slidelock-stainless-steel#color=32&size=61&inner_qty=17) - $4  
 <img src="https://github.com/ast96/edc/assets/20477698/576b92c4-1c3e-467c-8d80-9c22f7f5ac90" width="350" />
 
+### Cell phone - [iPhone SE (2020)](https://support.apple.com/kb/SP820?locale=en_US)
