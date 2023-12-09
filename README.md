@@ -38,7 +38,8 @@
 [<img src="https://github.com/ast96/edc/assets/20477698/a30dd4eb-659c-410b-a752-b2cd1c218cd0" width="100" />](https://github.com/ast96/edc/assets/20477698/a30dd4eb-659c-410b-a752-b2cd1c218cd0){:target="_blank" rel="noopener"}
 ### Handkerchief
 * Cotton square
-<!-- This line left intentionally blank-->
+  
+  <!-- This line left intentionally blank-->
 ### Pen
 * No current pen
 * _Formerly [Baronfig Squire, charcoal](https://baronfig.com/products/squire?variant=12385312070){:target="_blank" rel="noopener"}_
