@@ -31,3 +31,10 @@
 * Portion within [Bellroy Key Cover standard size, black](https://bellroy.com/products/key-cover?color=black&material=leather&size=standard) - $49
 * All contained within [Etsy Cordura 500D belt pouch, black](https://www.etsy.com/listing/1388246171/edc-pouch-cordura-belt-pouch-zipper) - $19  
 <img src="https://github.com/ast96/edc/assets/20477698/f721e597-a4e5-41e9-bd0a-dac07a71a956" width="300" />
+
+### Handkerchief
+* Cotton square
+
+### Wristwatch - [Solios Solar Classic](https://www.solioswatches.com/collections/the-solar/products/solar-watch-black-dial-silver-case-mesh-black?case%2520size=36mm) - $305
+* 36mm case size
+* Black dial, silver case, black mesh band
