@@ -13,7 +13,8 @@
 [<img src="https://github.com/ast96/edc/assets/20477698/68ebfa42-eaf5-4eb3-96e7-39ba2e3b5ebf" width="100" />](https://github.com/ast96/edc/assets/20477698/68ebfa42-eaf5-4eb3-96e7-39ba2e3b5ebf){:target="_blank" rel="noopener"}
 ### Pocket knife - [Spyderco Dragonfly 2](https://www.spyderco.com/catalog/details/C28ZFGR2/1056){:target="_blank" rel="noopener"}
 * Hand-dyed with Zome method
-* Fiberglass-reinforced-nylon (FRN) handles  
+* Fiberglass-reinforced-nylon (FRN) handles
+* _Formerly [Opinel No.06 knife (bubinga wood handle)](https://www.amazon.com/Opinel-Stainless-Steel-Folding-Pocket/dp/B000OEX94G?th=1)_  
 [<img src="https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee" width="100" />](https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee){:target="_blank" rel="noopener"}
 ### Flashlight - [Prometheus Beta Magnetic](https://darksucks.com/products/beta-magnetic){:target="_blank" rel="noopener"}
 * 40 lumens
