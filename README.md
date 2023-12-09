@@ -4,10 +4,10 @@
 |EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
 |---|---|---|---|---|---|---|
 |Former cell phone|113|2017|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️|
-|Wallet||2018|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️|⭐️⭐️⭐️⭐️|
+|Wallet||2018|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️|
 |Handkerchief||2018|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|
-|Former pen|24|2020|||||
-|Former knife|||||||
+|Former pen|24|2020|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️⭐️⭐️|
+|Former knife|||⭐️⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️|
 |Cell phone|148|2021|||||
 |Flashlight|34|2022|||||
 |Knife|34|2023|||||
