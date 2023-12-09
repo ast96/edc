@@ -1,7 +1,7 @@
 # My EDC
 ### Stats
 <details>
-  <summary><i>Show stats table</i></summary>
+  <summary>Show stats table</summary>
 
 
 |EDC Item|Weight (grams)|Date acquired|
