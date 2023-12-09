@@ -3,9 +3,16 @@
 
 |EDC Item|Weight (grams)|Date acquired|
 |---|---|---|
+|Former cell phone||2017|
+|Wallet||2018|
+|Handkerchief||2018|
+|Former pen||2020|
+|Former knife|||
 |Cell phone|148|2021|
-|Knife|34|2023|
 |Flashlight|34|2022|
+|Knife|34|2023|
+|Watch||2023|
+|Keys||N/A|
 
 ### Wallet - [Bellroy Low Down](https://web.archive.org/web/20170706115623/https://bellroy.com/products/low-down-wallet/default/black)
 * Slim
