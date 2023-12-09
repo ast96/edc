@@ -6,7 +6,7 @@
 |Former cell phone||2017|
 |Wallet||2018|
 |Handkerchief||2018|
-|Former pen||2020|
+|Former pen|24|2020|
 |Former knife|||
 |Cell phone|148|2021|
 |Flashlight|34|2022|
