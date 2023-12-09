@@ -1,18 +1,22 @@
 # My EDC
 ### By the numbers
+<details><summary>Show table</summary>
 
-|EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
-|---|---|---|---|---|---|---|
-|Handkerchief||2018|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|
-|Knife|34|2023|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Flashlight|34|2022|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Watch||2023|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|
-|Wallet||2018|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Keys||N/A|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-|Former pen|24|2020|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️⭐️⭐️|
-|Former knife|||⭐️⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️|
-|Former cell phone|113|2017|⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️|
-|Cell phone|148|2021|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|
+  
+  |EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
+  |---|---|---|---|---|---|---|
+  |Handkerchief||2018|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|
+  |Knife|34|2023|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
+  |Flashlight|34|2022|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
+  |Watch||2023|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|
+  |Wallet||2018|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️|
+  |Keys||N/A|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
+  |Former pen|24|2020|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️⭐️⭐️|
+  |Former knife|||⭐️⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️|
+  |Former cell phone|113|2017|⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️|
+  |Cell phone|148|2021|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|
+</details>
+
 
 
 ### Wallet - [Bellroy Low Down](https://web.archive.org/web/20170706115623/https://bellroy.com/products/low-down-wallet/default/black)
