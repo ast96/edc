@@ -110,8 +110,8 @@
 </table>
 
 </details>
-
-
+  
+  
 
 ### Wallet - [Bellroy Low Down](https://web.archive.org/web/20170706115623/https://bellroy.com/products/low-down-wallet/default/black)
 * Slim
