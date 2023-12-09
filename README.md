@@ -1,23 +1,20 @@
 # My EDC
 ### By the numbers
-<details open><summary>Show table</summary><p>
-
   
-  |EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
-  |---|---|---|---|---|---|---|
-  |Handkerchief||2018|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|
-  |Knife|34|2023|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-  |Flashlight|34|2022|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-  |Watch||2023|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|
-  |Wallet||2018|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️|
-  |Keys||N/A|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
-  |Former pen|24|2020|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️⭐️⭐️|
-  |Former knife|||⭐️⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️|
-  |Former cell phone|113|2017|⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️|
-  |Cell phone|148|2021|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|
-</p></details>
+|EDC Item|Weight (g)|Date acquired|Simplicity|Functionality|Carryability|Durability|
+|---|---|---|---|---|---|---|
+|Handkerchief||2018|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|
+|Knife|34|2023|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
+|Flashlight|34|2022|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
+|Watch||2023|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|
+|Wallet||2018|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️|
+|Keys||N/A|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|
+|Former pen|24|2020|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️⭐️⭐️|
+|Former knife|||⭐️⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|⭐️⭐️|
+|Former cell phone|113|2017|⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️|
+|Cell phone|148|2021|⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️|⭐️|
 
-<details><summary>Show table 2</summary>
+<details><summary>Show/hide table</summary>
 
 <table>
   <tr>
