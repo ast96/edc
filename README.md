@@ -128,7 +128,7 @@
 ### Pocket knife - [Spyderco Dragonfly 2](https://www.spyderco.com/catalog/details/C28ZFGR2/1056)
 * Hand-dyed with Zome method
 * Fiberglass-reinforced-nylon (FRN) handles
-* _Formerly [Opinel No.06 knife (padouk wood handle)](https://www.amazon.com/Opinel-Stainless-Steel-Folding-Pocket/dp/B000OEX94G?th=1)_  
+* _Formerly [Opinel No.06 knife (padouk wood handle)](https://www.opinel-usa.com/products/opinel-no6-padouk)_  
 [<img src="https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee" width="100" />](https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee)
 ### Flashlight - [Prometheus Beta Magnetic](https://darksucks.com/products/beta-magnetic)
 * 40 lumens
