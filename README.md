@@ -71,6 +71,15 @@
       <td>⭐️⭐️⭐️⭐️</td>
     </tr>
     <tr>
+      <td>Pen</td>
+      <td></td>
+      <td>2024</td>
+      <td>⭐️⭐️⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+      <td>⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
       <td>Former pen</td>
       <td>24</td>
       <td>2020</td>
@@ -81,8 +90,8 @@
     </tr>
     <tr>
       <td>Former knife</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>31</td>
+      <td>2020</td>
       <td>⭐️⭐️⭐️⭐️⭐️</td>
       <td>⭐️⭐️</td>
       <td>⭐️</td>
@@ -119,7 +128,7 @@
 ### Pocket knife - [Spyderco Dragonfly 2](https://www.spyderco.com/catalog/details/C28ZFGR2/1056)
 * Hand-dyed with Zome method
 * Fiberglass-reinforced-nylon (FRN) handles
-* _Formerly [Opinel No.06 knife (bubinga wood handle)](https://www.amazon.com/Opinel-Stainless-Steel-Folding-Pocket/dp/B000OEX94G?th=1)_  
+* _Formerly [Opinel No.06 knife (padouk wood handle)](https://www.amazon.com/Opinel-Stainless-Steel-Folding-Pocket/dp/B000OEX94G?th=1)_  
 [<img src="https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee" width="100" />](https://github.com/ast96/edc/assets/20477698/188dd253-4187-41f7-a9d9-b15108db04ee)
 ### Flashlight - [Prometheus Beta Magnetic](https://darksucks.com/products/beta-magnetic)
 * 40 lumens
