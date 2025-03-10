@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td>Handkerchief</td>
-      <td>&nbsp;</td>
+      <td>14</td>
       <td>2018</td>
       <td>⭐️⭐️⭐️⭐️⭐️</td>
       <td>⭐️⭐️⭐️</td>
@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td>Watch</td>
-      <td>&nbsp;</td>
+      <td>54</td>
       <td>2023</td>
       <td>⭐️⭐️⭐️⭐️⭐️</td>
       <td>⭐️⭐️⭐️⭐️</td>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td>Wallet</td>
-      <td>&nbsp;</td>
+      <td>92</td>
       <td>2018</td>
       <td>⭐️⭐️⭐️⭐️</td>
       <td>⭐️⭐️⭐️⭐️</td>
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td>Keys</td>
-      <td>&nbsp;</td>
+      <td>88</td>
       <td>N/A</td>
       <td>⭐️⭐️⭐️</td>
       <td>⭐️⭐️⭐️</td>
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td>Pen</td>
-      <td></td>
+      <td>7</td>
       <td>2024</td>
       <td>⭐️⭐️⭐️⭐️⭐️</td>
       <td>⭐️⭐️⭐️</td>
@@ -134,7 +134,7 @@
 * 40 lumens
 * 95+ CRI
 * "Mule"-type light
-* Attached via [Nite-Ize S-Biner SlideLock stainless steel #2-size black dual carabiner](https://niteize.com/s-biner-slidelock-stainless-steel#color=32&size=61&inner_qty=17)  
+* Attached via [Nite-Ize G-Series dual-chamber stainless steel #2-size black carabiner](https://niteize.com/g-series-dual-chamber-carabiner#?&color=32&size=61)  
 [<img src="https://github.com/ast96/edc/assets/20477698/576b92c4-1c3e-467c-8d80-9c22f7f5ac90" width="100" />](https://github.com/ast96/edc/assets/20477698/576b92c4-1c3e-467c-8d80-9c22f7f5ac90)
 ### Cell phone - [iPhone SE (2nd gen.)](https://support.apple.com/kb/SP820?locale=en_US)
 * 4.7" touchscreen
