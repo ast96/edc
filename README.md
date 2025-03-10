@@ -156,6 +156,7 @@
   <!-- This line left intentionally blank-->
 ### Pen - [Pokka Pen](https://pokkapens.com/collections/original-pokka-pens)
 * Gray exterior, clear interior
+* Contained within [Etsy Cordura 500D belt pouch, black](https://www.etsy.com/listing/1388246171/edc-pouch-cordura-belt-pouch-zipper), or using [Pokka Klip](https://pokkapens.com/collections/accessories/products/pokka-klip) in chest pocket 
 * _Formerly [Baronfig Squire, charcoal](https://baronfig.com/products/squire?variant=12385312070)_  
 [<img src="https://github.com/user-attachments/assets/c1f2f7ca-b8eb-4bae-8bfc-b371f4b76bb0" width="100" />](https://github.com/user-attachments/assets/c1f2f7ca-b8eb-4bae-8bfc-b371f4b76bb0)
 
