@@ -145,6 +145,8 @@
 * Cotton square
   
   <!-- This line left intentionally blank-->
-### Pen
-* No current pen
-* _Formerly [Baronfig Squire, charcoal](https://baronfig.com/products/squire?variant=12385312070)_
+### Pen - [Pokka Pen](https://pokkapens.com/collections/original-pokka-pens)
+* Gray exterior, clear interior
+* _Formerly [Baronfig Squire, charcoal](https://baronfig.com/products/squire?variant=12385312070)_  
+[<img src="https://github.com/user-attachments/assets/c1f2f7ca-b8eb-4bae-8bfc-b371f4b76bb0" width="100" />](https://github.com/user-attachments/assets/c1f2f7ca-b8eb-4bae-8bfc-b371f4b76bb0)
+
